@@ -1,7 +1,3 @@
-"""Crear desde la línea de comandos un sistema donde podrás 
-ingresar el monto que deseas cambiar, el sistema debe de solicitar 
-al usuario desde la terminal que ingrese el monto en USD 
-y la salida debe ser el monto cambiado a PYG. También puedes hacer otro programa que convierta de PYG a USD."""
 
 VentaDolar = 6350
 CompraDolar = 6310 #Factores de conversion
